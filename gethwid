@@ -1,1 +1,1 @@
-gethwid script
+print(game:GetService("RbxAnalyticsService"):GetClientId())
