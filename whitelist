@@ -1,5 +1,2 @@
-return {
-    ["kokey"] = "07238D65-14C2-4325-AFB2-809394530E5F",
-    ["user2"] = "ANOTHER-HWID-HERE",
-    ["user3"] = "YET-ANOTHER-HWID-HERE"
-}
+["kokey"] = "07238D65-14C2-4325-AFB2-809394530E5F",
+["example'] = "hwid"
